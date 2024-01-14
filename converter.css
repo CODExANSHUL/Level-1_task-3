@@ -1,0 +1,29 @@
+body {
+    font-style: italic;
+    font-size: larger;
+    text-align: center;
+    margin-top: 50px;
+    color: white ;
+    background-color: black;
+    border:tomato 5px solid;
+}
+label {
+    display: block;
+    margin-top: 10px;
+}
+input, select, button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    background-color: red;
+    font-style: italic;
+}
+
+#result {
+    border: greenyellow 5px solid;
+    margin: 5px;
+    padding: 5px;
+    font-size: 30px;
+}
+
